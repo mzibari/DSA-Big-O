@@ -1,0 +1,1 @@
+With each iteration of the while loop we are breaking down the array in half, meaning our big O is Logarithmic time O(log(n)).

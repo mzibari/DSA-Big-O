@@ -1,0 +1,1 @@
+The big O for this one is Linear time O(n), because the times the code is run is proportionate to the size of the array only.

@@ -1,0 +1,3 @@
+This algorithm returns true if n is a prime number, and false if n is not a prime number.
+This one is tricky, because when n is a prime number the big O seems to be linear time O(n),
+but when n is not a prime number the big O is constant time O(1). I'm going to assume that it is Logarithmic time O(log(n))

@@ -1,0 +1,1 @@
+The algorithm computes the fibonacci sequence, the big O for that algorithm is Exponential time o(2^n), the big the number is the more calculations will be done to get the fibonacci sequence

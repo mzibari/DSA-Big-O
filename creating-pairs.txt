@@ -1,0 +1,2 @@
+For this one, I'm going with Logarithmic time O(log(n)), if for instance the array size is 10, 'i' will be 10, 'j' will be 9 for the first 'i', the 2nd 'i' will have 8 'j' 
+associated with it, in other words as the first loop goes throw each iteration, the second loop will get smaller.

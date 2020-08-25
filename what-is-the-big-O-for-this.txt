@@ -1,0 +1,5 @@
+1.  Since I am going into the room and shouting once, it doesn't matter if the room has 500 people or 2 people
+    I will still shout one time only, the big O is Constant time O(1).
+
+2.  I will go and ask each person once, if I have 15 people I will ask 15 questions, there for the big O is
+    Linear time O(n)

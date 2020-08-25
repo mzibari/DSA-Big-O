@@ -1,0 +1,1 @@
+The big O is simply Constant time O(1), no matter what the size of the array, the function will always select one random element.

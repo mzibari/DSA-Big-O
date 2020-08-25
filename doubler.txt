@@ -1,0 +1,1 @@
+The big O is Linear time O(n), the function will be preformed once for each index of the array.
